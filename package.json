@@ -1,0 +1,8 @@
+{
+  "name": "commons-bookstore-kc",
+  "version": "1.0.0",
+  "description": "The Commons bookstore — 5508 Troost Ave, Kansas City, MO 64110 (static site + node form relay)",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
